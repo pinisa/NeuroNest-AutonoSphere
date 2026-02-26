@@ -1,7 +1,7 @@
 # Architecture Specification: New Network Technology
 
-**ชื่อโครงการหลัก:** NeuroNest AutonoSphere (นิวโรเนส : อาณาเขตเอกราชอัจฉริยะ) [cite: 33]
-**แนวคิดหลัก:** การสื่อสารเสมือนสิ่งมีชีวิตที่ไร้ศูนย์กลาง (Decentralized Biological Intelligence) ที่ทลายข้อจำกัดของโปรโตคอล TCP/IP [cite: 5, 6]
+**ชื่อโครงการหลัก:** NeuroNest AutonoSphere (นิวโรเนส : อาณาเขตเอกราชอัจฉริยะ) 
+**แนวคิดหลัก:** การสื่อสารเสมือนสิ่งมีชีวิตที่ไร้ศูนย์กลาง (Decentralized Biological Intelligence) ที่ทลายข้อจำกัดของโปรโตคอล TCP/IP
 
 ---
 
@@ -9,7 +9,7 @@
 
 | รหัสนักศึกษา | ชื่อ-นามสกุล | สถาปัตยกรรมเครือข่าย | แนวคิดหลัก (Core Concept) | เป้าหมายและประโยชน์ (Goals & Benefits) |
 | :--- | :--- | :--- | :--- | :--- |
-| [cite_start]673380399-7 [cite: 2] | [cite_start]นายชาคริต รุ่งเรืองงาม [cite: 2] | [cite_start]เครือข่ายอัจฉริยะสำหรับบ้านพักอาศัย (Smart Home Network) [cite: 9] | [cite_start]แยกอุปกรณ์ตามประเภทและจัดลำดับความสำคัญของทราฟฟิกอัตโนมัติ [cite: 11] | [cite_start]ลดความหน่วง (Latency) เพิ่มความปลอดภัยเชิงรุกด้วยการแยก IoT และมีความยืดหยุ่น (Scalability) [cite: 13] |
+| 673380399-7  | นายชาคริต รุ่งเรืองงาม  | เครือข่ายอัจฉริยะสำหรับบ้านพักอาศัย (Smart Home Network) [cite: 9] | [cite_start]แยกอุปกรณ์ตามประเภทและจัดลำดับความสำคัญของทราฟฟิกอัตโนมัติ [cite: 11] | [cite_start]ลดความหน่วง (Latency) เพิ่มความปลอดภัยเชิงรุกด้วยการแยก IoT และมีความยืดหยุ่น (Scalability) [cite: 13] |
 | [cite_start]673380593-1 [cite: 2] | [cite_start]นายพชรดนัย สุดชาติ [cite: 2] | [cite_start]เครือข่ายเมืองอัจฉริยะ (Smart City Network) [cite: 15] | [cite_start]ระบบรับรู้บริบท (Context-aware System) ทำงานด้วย AI-native Network และ Identity-based Networking [cite: 17] | [cite_start]ตอบสนองทันทีด้วย Ultra-low Latency ลดอุบัติเหตุ จัดสรรทรัพยากรเมืองอย่างมีประสิทธิภาพ และตรวจจับภัยคุกคามไซเบอร์อัตโนมัติ [cite: 19] |
 | [cite_start]673380597-3 [cite: 2] | [cite_start]น.ส.พินิสา สุทธมาตย์ [cite: 2] | [cite_start]โครงข่ายอิสระไร้คลื่น สื่อสารยั่งยืนทุกสถานการณ์ [cite: 21] | [cite_start]โครงข่ายใยแมงมุมแบบไร้ศูนย์กลาง ใช้การสั่นสะเทือน คลื่นแสง หรือควอนตัม (Physical Media Agnostic) แทนคลื่นวิทยุ [cite: 23] | [cite_start]สร้างความมั่นคงทางการสื่อสาร (Unbreakable Resilience) ทำงานได้ในภาวะวิกฤต และเป็นมิตรต่อสิ่งแวดล้อม (Energy Neutrality) [cite: 26] |
 | [cite_start]673380602-6 [cite: 2] | น.ส. [cite_start]ศศิวิตรา วงษ์รุ่งอรุณเลิศ [cite: 2] | [cite_start]เครือข่ายควอนตัมพัวพันเพื่อการผ่าตัดทางไกล [cite: 28] | [cite_start]ใช้ปรากฏการณ์ Quantum Entanglement สร้างการควบคุมที่มีความหน่วงเป็นศูนย์ (Zero-Latency Control) และเข้ารหัสด้วย QKD [cite: 30] | [cite_start]ทลายอุปสรรคด้านระยะทาง ให้แพทย์ผ่าตัดข้ามโลกได้ ป้องกันการโจมตีทางไซเบอร์โดยสมบูรณ์ และสร้างความเท่าเทียมในการรักษา [cite: 31] |
