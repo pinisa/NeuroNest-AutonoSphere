@@ -1,7 +1,7 @@
 # Architecture Specification: New Network Technology
 
-[cite_start]**ชื่อโครงการหลัก:** NeuroNest AutonoSphere (นิวโรเนส : อาณาเขตเอกราชอัจฉริยะ) [cite: 33]
-[cite_start]**แนวคิดหลัก:** การสื่อสารเสมือนสิ่งมีชีวิตที่ไร้ศูนย์กลาง (Decentralized Biological Intelligence) ที่ทลายข้อจำกัดของโปรโตคอล TCP/IP [cite: 5, 6]
+**ชื่อโครงการหลัก:** NeuroNest AutonoSphere (นิวโรเนส : อาณาเขตเอกราชอัจฉริยะ) [cite: 33]
+**แนวคิดหลัก:** การสื่อสารเสมือนสิ่งมีชีวิตที่ไร้ศูนย์กลาง (Decentralized Biological Intelligence) ที่ทลายข้อจำกัดของโปรโตคอล TCP/IP [cite: 5, 6]
 
 ---
 
