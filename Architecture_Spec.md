@@ -76,5 +76,3 @@
 
 ---
 
-| **All Members** | Group Feedback | 30 วินาที |
-| **Teacher** | Teacher Feedback if any | - |
